@@ -1,1 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T12:26:37.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="bYsdVKREHb7mwmI65poR" type="github"><diagram id="3iA68GueEOvaNNihEcRC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T12:59:43.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="mAIjel35fIarwv5V1bL4" type="github">
+  <diagram id="-ygrX8WKpEGC9nQO6RHz" name="第 1 页">
+    <mxGraphModel dx="1083" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-1" target="BVrAQcYIFqd_UGP6ni1E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-1" value="初始特征集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-3" target="BVrAQcYIFqd_UGP6ni1E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-3" value="DCS系统历史运行数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-4" target="BVrAQcYIFqd_UGP6ni1E-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="360" />
+              <mxPoint x="285" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-4" target="BVrAQcYIFqd_UGP6ni1E-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="360" />
+              <mxPoint x="455" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-4" value="输入特征总集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-5" target="BVrAQcYIFqd_UGP6ni1E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-5" target="BVrAQcYIFqd_UGP6ni1E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-5" value="排烟温度输入特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-6" target="BVrAQcYIFqd_UGP6ni1E-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-6" value="基于XGBoost的&lt;br&gt;排烟温度模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-7" target="BVrAQcYIFqd_UGP6ni1E-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-7" value="基于XGBoost的&lt;br&gt;NOx生成模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-10" value="机理分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371" y="165" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-13" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="246" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-15" target="BVrAQcYIFqd_UGP6ni1E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-15" target="BVrAQcYIFqd_UGP6ni1E-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-15" value="NOx输入特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-17" value="特征工程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="326" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-21" target="BVrAQcYIFqd_UGP6ni1E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-21" value="基于SVM、BPNN、RF的&lt;br&gt;排烟温度模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-22" target="BVrAQcYIFqd_UGP6ni1E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-22" value="基于SVM、BPNN、RF的&lt;br&gt;NOx生度模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-28" value="性能比较" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="146" y="451" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-31" value="性能比较" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="527" y="453" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-34" target="BVrAQcYIFqd_UGP6ni1E-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-34" target="BVrAQcYIFqd_UGP6ni1E-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="620" />
+              <mxPoint x="369" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-34" value="基于BY-XGBoost的&lt;br&gt;排烟温度模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="536" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-35" target="BVrAQcYIFqd_UGP6ni1E-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVrAQcYIFqd_UGP6ni1E-35" target="BVrAQcYIFqd_UGP6ni1E-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="620" />
+              <mxPoint x="369" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-35" value="基于BY-XGBoost的&lt;br&gt;NOx生成模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="536" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-37" value="贝叶斯优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-41" value="可解释性模拟分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="536" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-42" value="可解释性模拟分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="536" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-46" value="模拟分析实际配煤方案应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVrAQcYIFqd_UGP6ni1E-49" value="TOPSIS综合评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
